@@ -1,0 +1,7 @@
+/apisix_log/*
+!/apisix_log/.keep
+
+/etcd_data/*
+!/etcd_data/.keep
+
+.DS_Store
