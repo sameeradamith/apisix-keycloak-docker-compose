@@ -96,6 +96,7 @@ services:
         #JDBC_PARAMS: "connectTimeout=30000"
       ports:
         - 8080:8080
+        - 8443:8443
       depends_on:
         - mysql    
 
